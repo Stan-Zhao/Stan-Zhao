@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-<!--
-Trying to study python
--->
+Trying to study python!!!
